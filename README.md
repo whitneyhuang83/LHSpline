@@ -1,1 +1,1 @@
-# LHSpline
+# Log-Histospline
